@@ -1,5 +1,5 @@
 # MarkdownToPdf
-Tool for exporting Markdown files into PDF with UTF-8 encoding
+Tool for exporting Markdown files(can include HTML tags) into PDF with UTF-8 encoding
 
 How to run?
 
